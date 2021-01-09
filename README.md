@@ -48,7 +48,8 @@ In this session, you will learn about artificial neural networks and how they're
 - For this problem, we will be working with a modified version of MNIST dataset (MNIST CS109, MNIST: Modified National Institute of Standards and Technology database), which is a large database of handwritten digits and commonly used for training various image processing systems. This dataset consists of 60,000 28x28 grayscale images of the ten digits, along with a test set of 10,000 images. For pedagogical simplicity, we will only use the digits labeled 4 and 9, and we want to use a total of 1600 samples for training (this includes the data you will use for validation).
 
 - We have selected the samples for you and the dataset is available at https://www.kaggle.com/c/intro-to-nns-hw1-june-2020/data. You have to create an account on Kaggle and join the competition via https://www.kaggle.com/t/ec2eba573312496d8f53a8ec8f18695d. This is a limited participation competition. Please do not share link. Note, it's not technically a competition, as your goal is merely to create an appropriate, strong model that performs well. We will evaluate your skills based on this, not in terms of how you compare to your classmates.
-<img src="https://github.com/whsair/Summer-2020-Harvard-Deep-Learning-Online-Research-Intro-to-Deep-Learning/blob/main/HW1_result2.PNG" width="400" /> | <img src="https://github.com/whsair/Summer-2020-Harvard-Deep-Learning-Online-Research-Intro-to-Deep-Learning/blob/main/HW1_result1.PNG" width="400" />
+<img src="https://github.com/whsair/Summer-2020-Harvard-Deep-Learning-Online-Research-Intro-to-Deep-Learning/blob/main/HW1_result2.PNG" width="500" />
+<img src="https://github.com/whsair/Summer-2020-Harvard-Deep-Learning-Online-Research-Intro-to-Deep-Learning/blob/main/HW1_result1.PNG" width="500" />
 
 ### [Project2 CNNs](HW2)
 #### Convolutional Neural Network Mechanics
